@@ -12,10 +12,10 @@ Users enter basic home characteristics and receive:
 ## Tech Stack
 - Python 3
 - Pandas / NumPy
-- Scikit-learn
+- Scikit-learn (RandomForestRegressor)
 - Flask
 - Joblib
-- HTML / CSS
+- HTML / CSS (Bootstrap)
 
 ## How to Run
 1. Install dependencies:
